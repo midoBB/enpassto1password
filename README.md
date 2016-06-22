@@ -3,6 +3,7 @@ A Swift program to convert the txt exports of Enpass to a csv format adequate fo
 ## Usage
 Download enpasstocsv, open up the terminal, cd to that folder and run:
 ```./enpasstocsv /path/to/exported-from-enpass.txt```
+
 This will create a csv file with same filename and path containing all the logins.
 ## License
 The MIT License (MIT)
