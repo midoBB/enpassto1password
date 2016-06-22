@@ -7,4 +7,5 @@ This will create a csv file with same filename and path containing all the login
 ## License
 The MIT License (MIT)
 Copyright (c) 2016 Mohamed Haamdi
+
 Check LICENSE for more info.
